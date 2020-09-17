@@ -1,7 +1,7 @@
 # Sofia Bilinska
 ## Contact
 **Adress:**
-Ukraine Kiev,Street Veluka Volodumurska2B
+Ukraine Kyiv,Street Velyka Volodumyrska2B
 
 
 **Phone:**
@@ -16,7 +16,7 @@ I am a simple girl, but I have one difference: **ambition!** I want to try somet
 
 ### Skills
 
-I know such programming languages: *C++,HTML,CSS,JavaScript and C#*. To addaition, I know how to use different usfull programms.
+I know such programming languages: *C++,HTML,CSS,JavaScript and C#*. To addition, I know how to use different useful programs.
 One example of my code:
 ```
 const customName = document.getElementById('customname');
@@ -65,11 +65,11 @@ function result() {
 
 ### Work Experience
 
-I have not work experience but I passed different courses such as: *White belt for C++, Yandex courses and others*.
+I don't have work experience but I have passed different courses such as: *Courses on Coursera, Yandex courses and others*.
 
 ### Education
 
-Now I am studying at the *Faculty of Computer Science and Cybernetics*.  
+Now I study at the *Faculty of Computer Science and Cybernetics*.  
 
 ### English
 
