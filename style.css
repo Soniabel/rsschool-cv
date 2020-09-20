@@ -1,0 +1,21 @@
+html{
+  background: linear-gradient(295.88deg, #E5BAEC -3.27%, #FFE6FE -3.27%, rgba(222, 249, 255, 0.96) 90.69%);
+}
+.head{
+  background: #FFD0D0;
+  margin: 0 auto;
+}
+body {
+	padding: 0;
+	margin: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+	padding: 0;
+	margin: 0;
+}
+header{
+text-align: center;
+}
+main{
+
+}
